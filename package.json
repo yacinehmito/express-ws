@@ -1,6 +1,6 @@
 {
   "name": "@yacinehmito/express-ws",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "WebSocket endpoints for Express applications",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   ],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "ws": "^2.0.0"
+    "ws": "^3.0.0"
   },
   "peerDependencies": {
     "express": "^4.0.0 || ^5.0.0-alpha.1"
