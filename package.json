@@ -4,7 +4,7 @@
   "description": "WebSocket endpoints for Express applications",
   "main": "index.js",
   "scripts": {
-    "prepublish": "npm run build",
+    "prepare": "npm run build",
     "build": "babel src/ -d lib/",
     "lint": "eslint src/"
   },
